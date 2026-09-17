@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="BmsArena.ArenaServer/BmsArena.ArenaServer.csproj" />
+  <Project Path="BmsArena.Common/BmsArena.Common.csproj" />
 </Solution>
